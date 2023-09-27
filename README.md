@@ -11,3 +11,9 @@ Note: This repo is a clone of https://github.com/varadbhogayata/varadbhogayata.g
 ![screenshot](images/activity2-1.png)
 
 ![screenshot](images/activity2-2.png)
+
+## Activity 3
+
+![screenshot](images/activity3-1.png)
+
+![screenshot](images/activity3-2.png)
